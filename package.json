@@ -1,19 +1,19 @@
 {
-  "name": "gonzales-pe",
-  "description": "Gonzales Preprocessor Edition (fast CSS parser)",
+  "name": "gonzales-pe-sl",
+  "description": "Temporary gonzales-pe fork for sass-lint",
   "version": "4.2.3",
-  "homepage": "http://github.com/tonyganch/gonzales-pe",
+  "homepage": "https://github.com/DanPurdy/gonzales-pe",
   "bugs": "http://github.com/tonyganch/gonzales-pe/issues",
   "license": "MIT",
   "author": {
-    "name": "Tony Ganch",
-    "email": "tonyganch+github@gmail.com",
-    "url": "http://tonyganch.com"
+    "name": "Dan Purdy",
+    "email": "dan@dpurdy.me",
+    "url": "dan@dpurdy.me"
   },
   "main": "./lib/gonzales",
   "repository": {
     "type": "git",
-    "url": "http://github.com/tonyganch/gonzales-pe.git"
+    "url": "https://github.com/DanPurdy/gonzales-pe.git"
   },
   "scripts": {
     "autofix-tests": "bash ./scripts/build.sh && bash ./scripts/autofix-tests.sh",
